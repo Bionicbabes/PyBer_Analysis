@@ -24,3 +24,8 @@ To take a closer look into the data we can look at how each type compare to each
 ![Fig6.png](https://github.com/Bionicbabes/PyBer_Analysis/blob/main/analysis/Fig6.png)
 
 ![Fig7.png](https://github.com/Bionicbabes/PyBer_Analysis/blob/main/analysis/Fig7.png)
+
+
+
+**SUMMARY**
+-----------------------------------
