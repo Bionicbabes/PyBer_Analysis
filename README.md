@@ -31,4 +31,4 @@ To take a closer look into the data we can look at how each type compare to each
 -----------------------------------
 - There seems to be a direct correlation between the number of drivers and the amount of the fares getting more suburban and rural drivers will help reduce the cost of the fare and may intice more people to use the service in these areas driving more profit.
 - In the suburban areas there seems to be a spike in late Feburary and late April getting more seasonal drivers will help with wait times and drive customer satisfaction.
-- 
+- The majority of the profit is made in the urban areas, this has the most drivers and the lowest fares.  As you move into the suburban areas you can make more money per fare.  I think to do more thorough analysis we will need to get more data from the company.  Data that we would like to look at is length of ride, hourly drive pay average, ect.  Having more data will allow us to make better decisions moving forward. 
