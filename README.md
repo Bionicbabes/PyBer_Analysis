@@ -21,8 +21,6 @@ Breaking down the data into a pivot table and limiting the date range from Janua
 
 To take a closer look into the data we can look at how each type compare to eachother within a whole for different metrics.
 
-![Fig5.png](https://github.com/Bionicbabes/PyBer_Analysis/blob/main/analysis/Fig5.png)
-
 ![Fig6.png](https://github.com/Bionicbabes/PyBer_Analysis/blob/main/analysis/Fig6.png)
 
 ![Fig7.png](https://github.com/Bionicbabes/PyBer_Analysis/blob/main/analysis/Fig7.png)
