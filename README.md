@@ -13,6 +13,8 @@ Looking more closely at the data we can start to summarize the data.  Below is t
 
 ![Pyber_summary_df.PNG](https://github.com/Bionicbabes/PyBer_Analysis/blob/main/analysis/Pyber_summary_df.PNG)
 
+![Fig1.png](https://github.com/Bionicbabes/PyBer_Analysis/blob/main/analysis/Fig1.png)
+
 Breaking down the data into a pivot table and limiting the date range from January to April we can look at each type by week.
 
 ![PyBer_sum_fares_per_week.png](https://github.com/Bionicbabes/PyBer_Analysis/blob/main/analysis/PyBer_sum_fares_per_week.png)
