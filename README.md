@@ -11,4 +11,4 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 -----------------------------------
 Looking more closely at the data we can start to summarize the data below is the summary of the data by location type.  
 
-![
+![Pyber_summary_df.PNG](
